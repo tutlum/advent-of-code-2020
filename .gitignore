@@ -26,5 +26,3 @@ Manifest.toml
 # Nodebookfiles
 .ipynb_checkpoints 
 
-# Data
-*_data.*
